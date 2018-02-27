@@ -1,0 +1,5 @@
+function pb {
+  URL=`ix $@`
+  echo $URL | xclip -i -selection clipboard
+  echo $URL
+}
