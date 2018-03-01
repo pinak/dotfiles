@@ -1,12 +1,12 @@
 [submodule "vim/plugins/start/ack.vim"]
-	path = vim/plugins/start/ack.vim
+	path = vim/pack/plugins/start/ack.vim
 	url = https://github.com/mileszs/ack.vim.git
 [submodule "vim/plugins/start/ctrlp.vim"]
-	path = vim/plugins/start/ctrlp.vim
+	path = vim/pack/plugins/start/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
 [submodule "vim/plugins/start/vim-airline"]
-	path = vim/plugins/start/vim-airline
+	path = vim/pack/plugins/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
 [submodule "vim/themes/vim-colors-solarized"]
-	path = vim/themes/opt/vim-colors-solarized
+	path = vim/pack/themes/opt/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
