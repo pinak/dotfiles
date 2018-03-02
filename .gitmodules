@@ -10,3 +10,6 @@
 [submodule "vim/themes/vim-colors-solarized"]
 	path = vim/pack/themes/opt/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/pack/plugins/start/auto-pairs"]
+	path = vim/pack/plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
